@@ -2,5 +2,6 @@
 "name": "Prosperia Stake Pool",
 "description": "The offical Cardano stakepool of the Prosperia community.",
 "ticker": "PROSP",
-"homepage": "https://prosperspective.com"
+"homepage": "https://prosperspective.com",
+"extended": "https://raw.githubusercontent.com/tanknft/prosp-stake-pool/main/extended.json"
 }
