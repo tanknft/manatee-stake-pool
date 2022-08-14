@@ -3,5 +3,6 @@
 "description": "The offical Cardano stakepool of the Prosperia community.",
 "ticker": "PROSP",
 "homepage": "https://prosperspective.com",
-"extended": "https://raw.githubusercontent.com/tanknft/prosp-stake-pool/main/extended.json"
+"extended": "https://raw.githubusercontent.com/tanknft/prosp-stake-pool/main/extended.json",
+"cexplorer": "e9f6af21230ddb0e11"
 }
