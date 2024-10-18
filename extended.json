@@ -1,12 +1,5 @@
 {
     "info": {
-        "url_png_icon_64x64": "https://raw.githubusercontent.com/tanknft/prosp-stake-pool/main/logos/logonewpurple64x64.png",
-        "url_png_logo": "https://raw.githubusercontent.com/tanknft/prosp-stake-pool/main/logos/logo50kb.jpg",
-        "social": {
-            "twitter_handle": "prosperiacnft",
-            "youtube_handle": "channel/UC6hSwlRuifSp9BFaCuiIuOA",
-            "discord_handle": "prosperia",
-            "cexplorer": "e9f6af21230ddb0e11"
-        }
+        "url_png_icon_64x64": "https://github.com/tanknft/manatee-stake-pool/blob/main/logos/manatee_logo_icon.png?raw=true"
     }
 }
